@@ -68,13 +68,12 @@ img {
 }
 ::-webkit-scrollbar {
     width: 5px;
-    height: 5px;
+    height: 10px;
     scrollbar-width: thin;
 
 }
 ::-webkit-scrollbar-track {
     background-color: #fff;
-    box-shadow: 0 0 3px .5px rgb(118, 118, 118) inset;
 }
 ::-webkit-scrollbar-thumb {
     background-image: linear-gradient(to bottom , #FFD333, transparent 150%);
